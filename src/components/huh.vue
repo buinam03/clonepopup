@@ -24,6 +24,9 @@ export default{
             // pathImg: require(''),
         }
     },
+    mounted(){
+        document.title = 'Nhìn qq';
+    }
 methods: {
     huhuhuhuhuhu(){
         this.huh = true;
