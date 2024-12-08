@@ -26,7 +26,7 @@ export default{
     },
     mounted(){
         document.title = 'Nhìn qq';
-    }
+    },
 methods: {
     huhuhuhuhuhu(){
         this.huh = true;
